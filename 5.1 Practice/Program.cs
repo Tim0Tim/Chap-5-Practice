@@ -31,6 +31,7 @@ namespace _5._1_Practice
             {
                 Console.WriteLine("No grades were entered");
             }
+            //this is a test
         }
     }
 }
